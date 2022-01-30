@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont;
+}
+
+.container {
+    height: 100vh;
+    display: grid;
+    /* background: red; */
+}
+
+.sec1 {
+    height: 20vh;
+    width: flex;
+    display: flex;
+    background: blue;
+}
+
+.sec2 {
+    height: 60vh;
+    display: flex;
+    background: pink;
+}
+
+.sec3 {
+    height: 20vh;
+    display: flex;
+    background: red;
+}
